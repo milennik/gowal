@@ -1,2 +1,2 @@
 # gowal
-rise tool
+rice tool
